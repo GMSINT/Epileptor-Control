@@ -5,6 +5,7 @@ This code was developed for the thesis entitled: "A contribution to the dynamics
 Brogin JAF, Faber J, Bueno DD. An Efficient Approach to Define the Input Stimuli to Suppress Epileptic Seizures Described by the Epileptor Model. Int J Neural Syst. 2020 Nov;30(11):2050062. doi: 10.1142/S0129065720500628. Epub 2020 Sep 16. PMID: 32938259.
 
 which can be cited as:
+
 @Article{brogin2020,
   author   = {Brogin, João Angelo Ferres and Faber, Jean and Bueno, Douglas Domingues},
   journal  = {International Journal of Neural Systems},
